@@ -16,7 +16,7 @@ Interactive Power BI dashboard analyzing Blinkit grocery sales data.
 
 ## Dashboard Preview
 
-![Dashboard](<img width="1278" height="718" alt="(1) Blinkit Dashboard Overview" src="https://github.com/user-attachments/assets/14153e94-a5ac-4ce2-9ff2-4415e2560ee6" />)
+![Dashboard]((1) Blinkit Dashboard Overview.png)
 
 ## Insights
 - Supermarket Type 1 generated highest sales.
